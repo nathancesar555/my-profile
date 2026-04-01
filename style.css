@@ -1,10 +1,10 @@
-/* ===== CONTAINER ===== */
+
 .container {
   width: 700px;
   margin: 40px auto;
 }
 
-/* ===== CARD WHITE ===== */
+
 .card-white {
   background-color: #ffffff;
   padding: 30px;
@@ -19,12 +19,12 @@
   box-shadow: 0 15px 35px rgba(0,0,0,0.15);
 }
 
-/* ===== TEXT CENTER ===== */
+
 .text-center {
   text-align: center;
 }
 
-/* ===== IMAGE CIRCLE ===== */
+
 .img-circle {
   width: 150px;
   border-radius: 50%;
@@ -32,12 +32,12 @@
   margin: 20px auto;
 }
 
-/* ===== MARGIN BOTTOM UTIL ===== */
+
 .mb-20 {
   margin-bottom: 20px;
 }
 
-/* ===== BUTTON ===== */
+
 .btn-blue {
   display: inline-block;
   padding: 10px 20px;
@@ -52,7 +52,7 @@
   background-color: #0056b3;
 }
 
-/* ===== LIST INLINE (SOCIAL) ===== */
+
 .list-inline {
   list-style: none;
   padding-left: 0;
@@ -64,7 +64,7 @@
   padding: 0 20px;
 }
 
-/* ===== LINKS ===== */
+
 a {
   color: #007BFF;
   text-decoration: none;
@@ -74,7 +74,7 @@ a:hover {
   color: #ff4d6d;
 }
 
-/* ===== RESPONSIVE ===== */
+
 @media (max-width: 960px) {
   .container { width: 700px; }
 }
